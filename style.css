@@ -1,0 +1,8 @@
+body {
+  background-image: url("10.jpeg");
+  color: yellowgreen !important;
+  text-shadow: 2px 2px 2px coral;
+}
+span{
+  color:red;
+}
